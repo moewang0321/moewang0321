@@ -4,6 +4,7 @@
 
 I'm Moe - a FE developer, and Open source contributor.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moewang0321)](https://github.com/moewang0321/github-readme-stats)
 
 <details>
 <summary>About Open Source </summary>
