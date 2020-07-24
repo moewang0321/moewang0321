@@ -1,9 +1,11 @@
 # Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moewang0321)](https://github.com/moewang0321/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=moewang0321&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 🎉 Welcome to my GitHub profile!
 
-I'm Moe - a FE developer, and Open source contributor.
+I'm Moe - a FE developer.
+
 
 
 
