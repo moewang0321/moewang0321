@@ -11,11 +11,11 @@ I'm Moe - a FE developer.
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moewang0321&theme=highcontrast" />
 
 
-
+# My main projects
 <details>
-<summary>About Open Source </summary>
+<summary> My main projects </summary>
 
-## My main projects:
+My main projects:
 - [moewang0321.github.io](https://github.com/moewang0321/moewang0321.github.io) - 🚀
 - [Vue.js-Chat](https://github.com/moewang0321/LeetCode_EveryDay) - 🐳 
 - [LeetCode_EveryDay](https://github.com/moewang0321/LeetCode_EveryDay) - 🚀
