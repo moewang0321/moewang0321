@@ -1,14 +1,12 @@
-# Hi there 👋
-
 <img src="https://w.wallhaven.cc/full/4g/wallhaven-4gje67.jpg" width="100%" style="border-radius:6px" >
 
 --- 
 
-## <p align="center">Hi 👋, I'm Moe</p>
+# <p align="center"> Hi there 👋 </p>
+
+## <p align="center"> I'm Moe </p>
 
 ### <p align="center"> A FE. developer </p>
-
-### <p align="center"> A :basketball:basketball fan </p>
 
 <p align="center">
 	<a href="https://github.com/moewang0321" target="_blank">
@@ -26,7 +24,6 @@
 <details>
 <summary> My main projects </summary>
 
-My main projects:
 - [moewang0321.github.io](https://github.com/moewang0321/moewang0321.github.io) - 🚀
 - [Vue.js-Chat](https://github.com/moewang0321/LeetCode_EveryDay) - 🐳 
 - [LeetCode_EveryDay](https://github.com/moewang0321/LeetCode_EveryDay) - 🚀
