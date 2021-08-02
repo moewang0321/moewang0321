@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://wallhaven.cc/w/4gje67" width="100%" style="border-radius:6px" >
+<img src="https://w.wallhaven.cc/full/4g/wallhaven-4gje67.jpg" width="100%" style="border-radius:6px" >
 
 --- 
 
