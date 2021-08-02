@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=moewang0321&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moewang0321&layout=compact&hide=html&theme=dark" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moewang0321&theme=highcontrast" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=moewang0321&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moewang0321&layout=compact&hide=html&theme=dark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=moewang0321&theme=highcontrast" />
 🎉 Welcome to my GitHub profile!
 
 I'm Moe - a FE developer.
