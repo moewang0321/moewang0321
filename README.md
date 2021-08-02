@@ -1,12 +1,14 @@
 # Hi there 👋
 
+<img src="https://wallhaven.cc/w/4gje67" width="100%" style="border-radius:6px" >
+
 --- 
 
 ## <p align="center">Hi 👋, I'm Moe</p>
 
 ### <p align="center"> A FE. developer </p>
 
-### <p align="center"> An :basketball:basketball fan </p>
+### <p align="center"> A :basketball:basketball fan </p>
 
 <p align="center">
 	<a href="https://github.com/moewang0321" target="_blank">
